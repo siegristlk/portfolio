@@ -1,7 +1,7 @@
 ---
 date: 2025-11-01T00:00:00+01:00
 draft: false
-title: "Wissenschaftliche Mitarbeiterin"
+#title: "Wissenschaftliche Mitarbeiterin"
 jobTitle: "Wissenschaftliche Mitarbeiterin"
 company: "Universität St.Gallen"
 location: "St.Gallen, Schweiz"
