@@ -5,7 +5,7 @@ title: "Internship in STEM education"
 jobTitle: "Internship at the Schoollab Experio"
 company: "F. Hoffmann-La Roche AG"
 location: "Basel, Switzerland"
-duration: "2024-2025"
+duration: "2024-now"
 companyLogo: "images/experience/Logo_Schullabor.png"
 
 ---
