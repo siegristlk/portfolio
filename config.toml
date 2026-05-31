@@ -1,9 +1,9 @@
-baseURL = ""
+baseURL = "https://siegristlk.github.io/portfolio/"
 title = "Lisa Siegrist"
 languageCode = "de"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
-relativeURLs = true
+relativeURLs = false
 
 
 [module]
