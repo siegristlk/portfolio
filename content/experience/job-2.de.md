@@ -3,7 +3,7 @@ date: 2023-12-01T00:00:00+01:00
 draft: false
 #title: "Wissenschaftliche Mitarbeiterin am Fachbereich Informatik"
 jobTitle: "Studentische Mitarbeiterin"
-company: "Universität des Saarlandes, Technology-Enhanced Learning"
+company: "Universität des Saarlandes, LaLaLab"
 location: "Saarbrücken, Deutschland"
 duration: "Jan 2024 - Sep 2024"
 companyLogo: "images/experience/Logo_UDS.png"
@@ -11,4 +11,4 @@ companyLogo: "images/experience/Logo_UDS.png"
 ---
 ### Bedürfnisse der Lernenden erforschen - Erfahrungen in der Bildungsforschung vertiefen
 
-Als Forschungsassistentin im *Technology-Enhanced Learning Lab* von Professor Tomohiro Nagashima an der Universität des Saarlandes unterstützte ich ein qualitatives Forschungsprojekt, dessen Ziel es war, zu verstehen, wie Schüler, Lehrer und andere Beteiligte den Einsatz von KI-Tools im Unterricht wahrnehmen und bevorzugen. Ein wesentlicher Teil meiner Arbeit bestand in der Planung und Durchführung von halbstrukturierten Interviews mit Lehrern sowie in der Analyse und Interpretation der gewonnenen qualitativen Daten. Ich arbeitete auch mit Storyboards, um realistische Benutzerszenarien zu erstellen, die uns bei der Gestaltung der Interviews und der Datenanalyse halfen. Durch diese Erfahrung habe ich meine Fähigkeiten in der nutzerzentrierten Forschung vertieft, insbesondere in der Identifizierung von Bildungsbedürfnissen, dem Vergleich von Perspektiven und der Umsetzung der Ergebnisse in designrelevante Schlussfolgerungen für digitale Lernsysteme.
+Als studentische Mitarbeiterin im <a href="https://tomonag.org/lab/" target="_blank">*Learning to Adapt, Learning with Agency Lab*</a> unter der Leitung von <a href="https://tomonag.org" target="_blank">Professor Tomohiro Nagashima</a> in der Forschungsgruppe Technology-Enhanced Learning an der Universität des Saarlandes unterstützte ich ein qualitatives Forschungsprojekt, dessen Ziel es war, zu verstehen, wie Schüler, Lehrer und andere Beteiligte den Einsatz von KI-Tools im Unterricht wahrnehmen und bevorzugen. Ein wesentlicher Teil meiner Arbeit bestand in der Planung und Durchführung von halbstrukturierten Interviews mit Lehrern sowie in der Analyse und Interpretation der gewonnenen qualitativen Daten. Ich arbeitete auch mit Storyboards, um realistische Benutzerszenarien zu erstellen, die uns bei der Gestaltung der Interviews und der Datenanalyse halfen. Durch diese Erfahrung habe ich meine Fähigkeiten in der nutzerzentrierten Forschung vertieft, insbesondere in der Identifizierung von Bildungsbedürfnissen, dem Vergleich von Perspektiven und der Umsetzung der Ergebnisse in designrelevante Schlussfolgerungen für digitale Lernsysteme.

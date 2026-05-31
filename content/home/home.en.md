@@ -8,7 +8,10 @@ draft = false
 {{< showcase-section
     title=" "
     subtitle="Instructional designer with a focus on digital learning"
-    description="<br/>My name is Lisa, and I work at the <a target='_blank' href='https://basel.lehre.roche.com/experio/'>School Lab Experio </a> of Hoffmann-La Roche in Basel 🇨🇭, where I design and facilitate practical STEM workshops. <br/>My goal is to make learning tangible, relevant and sustainable. Thanks to my interdisciplinary background, I consider educational spaces from the perspectives of learners, teachers and the organisation as a whole. My projects combine technology, didactics and practice, whether it's digital museums, interactive learning formats or AI in the classroom. I work in a reflective, empathetic and collaborative way, with the aim of designing educational experiences that empower, connect and open up new opportunities."
+    description="<br/>My name is Lisa, and I design learning so that it is tangible, relevant, and applicable in real-world contexts.
+    I’m particularly interested in how technology actually transforms learning—and how meaningful learning formats can be developed from it.
+    I design and deliver learning and exchange formats across different contexts, from schools to higher education, in both digital and in-person settings. My work connects conceptual development with practical implementation and operates at the intersection of learners, educators, and organizations.
+    My goal is to create learning experiences that are not only well-designed in theory, but effective and impactful in practice."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
@@ -17,7 +20,7 @@ draft = false
 
 {{< about-section
     title="Who am I?"
-    content="<br/>My professional journey has taken me from social and organisational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centred research. I work at the intersection of learners, teachers, and technology, translating complex requirements into practical, well-considered solutions empathetically and based on evidence, while keeping an eye on the big picture. <br/>Rather than viewing didactics as a rigid concept, I see it as a design task closely linked to design processes that provide learners with orientation and freedom simultaneously."
+    content="<br/>My path leads from social and organizational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centered research. I translate complex requirements into thoughtful, actionable solutions and work in an evidence-based way with a clear awareness of different perspectives. I see didactics not as a fixed framework, but as a design task—a process that provides orientation while creating space for exploration.
     imgSrc="/images/about/FotoLisa.png"
     imgScale="0.5"
  >}}

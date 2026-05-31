@@ -5,7 +5,7 @@ draft: false
 jobTitle: "Internship at the Schoollab Experio"
 company: "F. Hoffmann-La Roche AG"
 location: "Basel, Switzerland"
-duration: "2024-2025"
+duration: "Okt 2024 - Sep 2025"
 companyLogo: "images/experience/Logo_Schullabor.png"
 
 ---

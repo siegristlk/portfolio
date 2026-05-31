@@ -1,14 +1,14 @@
 ---
-date: 2024-12-01T00:00:00+01:00
+date: 2025-11-01T00:00:00+01:00
 draft: true
-title: "Internship in STEM education"
-jobTitle: "Internship at the Schoollab Experio"
-company: "F. Hoffmann-La Roche AG"
-location: "Basel, Switzerland"
-duration: "2024-now"
-companyLogo: "images/experience/Logo_Schullabor.png"
+#title: "Research Assistant"
+jobTitle: "Research Assistant"
+company: "University St.Gallen, CEST"
+location: "St.Gallen, Switzerland"
+duration: "Okt 2025 - now"
+companyLogo: "images/experience/IIDM-HSG_Logo_EN_RGB.png"
 
 ---
-### Designing hands-on STEM experiences that turn complexity into curiosity
+### Designing participatory formats to promote understanding of soil health
 
-At Hoffmann-La Roche's <a href="https://basel.lehre.roche.com/experio/" target="_blank">*Schoollab Experio*</a>, I work on designing and implementing hands-on STEM workshops that bring scientific concepts to life for students. My role involves not only running sessions in the lab, but also helping to develop new teaching formats and digital learning experiences. I adapt our offerings to meet the different needs of each class - some benefit from structured guidance, while others thrive with more autonomy and space to explore. This experience has deepened my understanding of how learning environments can be both creative and functional, and how didactic clarity and flexibility can go hand in hand. It has also sharpened my skills in translating complex content into engaging, age-appropriate learning formats - both analogue and digital.
+At the <a href="https://iidm.unisg.ch/competence-centres/competence-centre-for-education-and-social-transformation/" target="_blank">*Competence Center for Education and Social Transformation (CEST)*</a> at the University of St. Gallen, I design and implement participatory blended-learning formats for international target groups as part of the EU project<a href="https://www.nemesis-soil.eu" target="_blank">NEMESIS SOIL</a>. The focus lies on creating interactive learning environments in which participants independently work on real-world challenges and collaboratively develop solutions. In this context, I design and deliver webinars, workshops, and digital exchange formats, coordinate their implementation across six European pilot sites, and manage collaboration with relevant stakeholders.
