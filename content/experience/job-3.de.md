@@ -5,7 +5,7 @@ title: "Praktikantin in der MINT-Bildung"
 jobTitle: "Praktikantin im Schullabor Experio"
 company: "F. Hoffmann-La Roche AG"
 location: "Basel, Schweiz"
-duration: "2024-2025"
+duration: "Okt 2024 - Sep 2025"
 companyLogo: "images/experience/Logo_Schullabor.png"
 
 ---

@@ -5,7 +5,7 @@ title: "Werkstudentin in Produktion und Montage"
 jobTitle: "Werkstudentin"
 company: "ZF Friedrichshafen AG"
 location: "Saarbrücken, Deutschland"
-duration: "2023"
+duration: "Feb 2023 - Jun 2023"
 companyLogo: "images/experience/ZF_Logo.png"
 
 ---

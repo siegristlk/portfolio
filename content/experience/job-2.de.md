@@ -5,7 +5,7 @@ title: "Wissenschaftliche Mitarbeiterin am Fachbereich Informatik"
 jobTitle: "Wissenschaftliche Mitarbeiterin"
 company: "Universität des Saarlandes, Technology-Enhanced Learning"
 location: "Saarbrücken, Deutschland"
-duration: "2024"
+duration: "Jan 2024 - Sep 2024"
 companyLogo: "images/experience/Logo_UDS.png"
 
 ---

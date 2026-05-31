@@ -1,11 +1,11 @@
 ---
-date: 2024-12-01T00:00:00+01:00
+date: 2025-11-01T00:00:00+01:00
 draft: false
 title: "Wissenschaftliche Mitarbeiterin"
 jobTitle: "Competence Center for Education and Social Transformation"
 company: "Universität St.Gallen"
 location: "St.Gallen, Schweiz"
-duration: "Oktober 2025-jetzt"
+duration: "Okt 2025 - jetzt"
 companyLogo: "images/experience/Logo_Schullabor.png"
 
 ---
