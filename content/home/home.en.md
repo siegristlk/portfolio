@@ -8,10 +8,7 @@ draft = false
 {{< showcase-section
     title=" "
     subtitle="Instructional designer with a focus on digital learning"
-    description="<br/>My name is Lisa, and I design learning so that it is tangible, relevant, and applicable in real-world contexts.
-    I’m particularly interested in how technology actually transforms learning—and how meaningful learning formats can be developed from it.
-    I design and deliver learning and exchange formats across different contexts, from schools to higher education, in both digital and in-person settings. My work connects conceptual development with practical implementation and operates at the intersection of learners, educators, and organizations.
-    My goal is to create learning experiences that are not only well-designed in theory, but effective and impactful in practice."
+    description="<br/>My name is Lisa, and I design learning so that it is tangible, relevant, and applicable in real-world contexts. I’m particularly interested in how technology actually transforms learning—and how meaningful learning formats can be developed from it. I design and deliver learning and exchange formats across different contexts, from schools to higher education, in both digital and in-person settings. My work connects conceptual development with practical implementation and operates at the intersection of learners, educators, and organizations. My goal is to create learning experiences that are not only well-designed in theory, but effective and impactful in practice."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
