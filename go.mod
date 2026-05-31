@@ -1,4 +1,4 @@
-module github.com/lisasiegrist/meine-website
+module github.com/lisasiegrist/portfolio
 
 go 1.20
 
