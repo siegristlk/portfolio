@@ -8,8 +8,7 @@ draft = false
     title=" "
     subtitle="Instructional Designerin mit Fokus auf digitales Lernen"
     buttonText="Correo"
-    description="<br/>Mein Name ist Lisa und gestalte Lernen so, dass es greifbar, relevant und im Alltag anschlussfähig wird.
-    Mich interessiert besonders, wie Technologie Lernen tatsächlich verändert – und wie sich daraus sinnvolle Lernformate entwickeln lassen. Ich konzipiere und realisiere Lern- und Austauschformate in unterschiedlichen Kontexten, von Schule bis Hochschule, analog wie digital. Dabei verbinde ich konzeptionelle Entwicklung mit praktischer Umsetzung und arbeite konsequent an der Schnittstelle von Lernenden, Lehrenden und Organisationen. Mein Anspruch ist es, Lernprozesse so zu gestalten, dass sie nicht nur gut gedacht sind, sondern in der Praxis funktionieren und Wirkung entfalten."
+    description="<br/>Mein Name ist Lisa und gestalte Lernen so, dass es greifbar, relevant und im Alltag anschlussfähig wird. Mich interessiert besonders, wie Technologie Lernen tatsächlich verändert – und wie sich daraus sinnvolle Lernformate entwickeln lassen. Ich konzipiere und realisiere Lern- und Austauschformate in unterschiedlichen Kontexten, von Schule bis Hochschule, analog wie digital. Dabei verbinde ich konzeptionelle Entwicklung mit praktischer Umsetzung und arbeite konsequent an der Schnittstelle von Lernenden, Lehrenden und Organisationen. Mein Anspruch ist es, Lernprozesse so zu gestalten, dass sie nicht nur gut gedacht sind, sondern in der Praxis funktionieren und Wirkung entfalten."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5" 
  >}}
