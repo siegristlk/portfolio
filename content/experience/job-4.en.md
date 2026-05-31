@@ -1,6 +1,6 @@
 ---
 date: 2025-11-01T00:00:00+01:00
-draft: true
+draft: false
 #title: "Research Assistant"
 jobTitle: "Research Assistant"
 company: "University St.Gallen, CEST"
