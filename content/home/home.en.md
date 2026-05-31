@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Who am I?"
-    content="<br/>My path leads from social and organizational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centered research. I translate complex requirements into thoughtful, actionable solutions and work in an evidence-based way with a clear awareness of different perspectives. I see didactics not as a fixed framework, but as a design task—a process that provides orientation while creating space for exploration.
+    content="<br/>My path leads from social and organizational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centered research. I translate complex requirements into thoughtful, actionable solutions and work in an evidence-based way with a clear awareness of different perspectives. I see didactics not as a fixed framework, but as a design task—a process that provides orientation while creating space for exploration."
     imgSrc="/images/about/FotoLisa.png"
     imgScale="0.5"
  >}}
