@@ -2,13 +2,13 @@
 date: 2025-11-01T00:00:00+01:00
 draft: false
 title: "Wissenschaftliche Mitarbeiterin"
-jobTitle: "Competence Center for Education and Social Transformation"
+jobTitle: "Wissenschaftliche Mitarbeiterin"
 company: "Universität St.Gallen"
 location: "St.Gallen, Schweiz"
 duration: "Okt 2025 - jetzt"
 companyLogo: "images/experience/Logo_Schullabor.png"
 
 ---
-### MINT-Erfahrungen zum Anfassen, die Komplexität in Neugierde verwandeln
+### Konzeption partizipativer Formate zur Förderung des Verständnisses von Bodengesundheit
 
-Im  <a href="https://basel.lehre.roche.com/experio/" target="_blank">Schullabor Experio</a> der Firma Hoffmann-La Roche arbeite ich an der Konzeption und Durchführung von praktischen MINT-Workshops mit, die naturwissenschaftliche Konzepte für Schülerinnen und Schüler erlebbar machen. Zu meinen Aufgaben gehört nicht nur die Durchführung von Veranstaltungen im Labor, sondern auch die Unterstützung bei der Entwicklung neuer Unterrichtsformate und digitaler Lernerfahrungen. Ich passe unsere Angebote an die unterschiedlichen Bedürfnisse der einzelnen Klassen an - einige profitieren von einer strukturierten Anleitung, während andere mit mehr Autonomie und Freiraum zum Erforschen besser zurechtkommen. Diese Erfahrung hat mein Verständnis dafür vertieft, wie Lernumgebungen sowohl kreativ als auch funktional sein können, und wie didaktische Klarheit und Flexibilität Hand in Hand gehen können. Sie hat auch meine Fähigkeiten geschärft, komplexe Inhalte in ansprechende, altersgerechte Lernformate zu übersetzen - sowohl analog als auch digital.
+Im <a href="https://iidm.unisg.ch/competence-centres/competence-centre-for-education-and-social-transformation/" target="_blank">Competence Center for Education and Social Transformation (CEST)</a> der Universität St.Gallen entwickele und implementiere ich im Rahmen des EU-Projekts <a href="https://www.nemesis-soil.eu" target="_blank">NEMESIS SOIL</a> partizipative Blended-Learning-Formate für internationale Zielgruppen. Der Fokus liegt auf der Gestaltung interaktiver Lernumgebungen, in denen Teilnehmende eigenständig an praxisnahen Fragestellungen arbeiten und kollaborativ Lösungen entwickeln. Dazu konzipiere und realisiere ich Webinare, Workshops und digitale Austauschformate, koordiniere deren Umsetzung an sechs europäischen Pilotstandorten und übernehme die Abstimmung mit relevanten Stakeholdern.
