@@ -3,7 +3,7 @@ date: 2025-11-01T00:00:00+01:00
 draft: false
 #title: "Wissenschaftliche Mitarbeiterin"
 jobTitle: "Wissenschaftliche Mitarbeiterin"
-company: "Universität St.Gallen"
+company: "Universität St.Gallen, CEST"
 location: "St.Gallen, Schweiz"
 duration: "Okt 2025 - jetzt"
 companyLogo: "images/experience/Logo_Schullabor.png"

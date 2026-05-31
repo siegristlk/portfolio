@@ -1,8 +1,8 @@
 ---
 date: 2023-12-01T00:00:00+01:00
 draft: false
-title: "Wissenschaftliche Mitarbeiterin am Fachbereich Informatik"
-jobTitle: "Wissenschaftliche Mitarbeiterin"
+#title: "Wissenschaftliche Mitarbeiterin am Fachbereich Informatik"
+jobTitle: "Studentische Mitarbeiterin"
 company: "Universität des Saarlandes, Technology-Enhanced Learning"
 location: "Saarbrücken, Deutschland"
 duration: "Jan 2024 - Sep 2024"

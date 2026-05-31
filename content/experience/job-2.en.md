@@ -1,8 +1,8 @@
 ---
 date: 2023-12-01T00:00:00+01:00
 draft: false
-title: "Research Assistant at the Department of Computer Science"
-jobTitle: "Research Assistant"
+#title: "Research Assistant at the Department of Computer Science"
+jobTitle: "Student Assistant"
 company: "Saarland University, Technology-Enhanced Learning"
 location: "Saarbrücken, Germany"
 duration: "2024"

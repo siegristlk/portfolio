@@ -1,8 +1,8 @@
 ---
 date: 2022-12-01T00:00:00+01:00
 draft: false
-title: "Working Student in Production and Assembly"
-jobTitle: "Working Student"
+#title: "Working Student in Production and Assembly"
+jobTitle: "Working Student in Production and Assembly"
 company: "ZF Friedrichshafen AG"
 location: "Saarbrücken, Germany"
 duration: "2023"

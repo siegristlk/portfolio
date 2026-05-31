@@ -1,8 +1,8 @@
 ---
 date: 2022-12-01T00:00:00+01:00
 draft: false
-title: "Werkstudentin in Produktion und Montage"
-jobTitle: "Werkstudentin"
+#title: "Werkstudentin in Produktion und Montage"
+jobTitle: "Werkstudentin in Produktion und Montage"
 company: "ZF Friedrichshafen AG"
 location: "Saarbrücken, Deutschland"
 duration: "Feb 2023 - Jun 2023"
