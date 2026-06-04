@@ -6,7 +6,7 @@ jobTitle: "Wissenschaftliche Mitarbeiterin"
 company: "Universität St.Gallen, CEST"
 location: "St.Gallen, Schweiz"
 duration: "Okt 2025 - jetzt"
-companyLogo: "images/experience/IIDM-HSG_Logo_DE_RGB.png"
+companyLogo: "images/experience/Logo_IIDM_DE.png"
 
 ---
 ### Konzeption partizipativer Formate zur Förderung des Verständnisses von Bodengesundheit
