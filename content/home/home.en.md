@@ -7,8 +7,8 @@ draft = false
 
 {{< showcase-section
     title=" "
-    subtitle="Instructional designer with a focus on digital learning"
-    description="<br/>My name is Lisa, and I design learning so that it is tangible, relevant, and applicable in real-world contexts. I’m particularly interested in how technology actually transforms learning—and how meaningful learning formats can be developed from it. I design and deliver learning and exchange formats across different contexts, from schools to higher education, in both digital and in-person settings. My work connects conceptual development with practical implementation and operates at the intersection of learners, educators, and organizations. My goal is to create learning experiences that are not only well-designed in theory, but effective and impactful in practice."
+    subtitle="Learning Design at the Intersection of Pedagogy and Technology"
+    description="<br/>From my experience of e-learning courses, I have found that the main weakness of digital courses is rarely the technology itself. Instead, it is usually because they focus on content rather than learning objectives. I have made this observation ever since. Learning only works when the learners' needs are truly at the centre, rather than the subject matter or the tool."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Who am I?"
-    content="<br/>My path leads from social and organizational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centered research. I translate complex requirements into thoughtful, actionable solutions and work in an evidence-based way with a clear awareness of different perspectives. I see didactics not as a fixed framework, but as a design task—a process that provides orientation while creating space for exploration."
+    content="<br/>My path leads from social and organisational pedagogy to educational technology, combining pedagogical perspectives with digital know-how and user-centred research. I translate complex requirements into well-considered, implementable solutions that are evidence-based, learning theory-informed and with a clear view of different perspectives. I understand didactic principles not as a rigid concept, but as a design task: as a process that provides orientation and simultaneously opens up possibilities."
     imgSrc="/images/about/FotoLisa.png"
     imgScale="0.5"
  >}}
