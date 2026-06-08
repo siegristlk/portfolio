@@ -10,6 +10,7 @@
           <p class="post-meta">
             {{ i18n "published_on" }} {{ .Date | time.Format (i18n "date_format") }}
             ·
+            
             {{ .WordCount }} {{ i18n "words" | default "Wörter" }}
           </p>
        
