@@ -10,7 +10,7 @@ tags:
   - Didactics
 ---
 
-# Interactive Learning Session on the Replication Crisis
+date# Interactive Learning Session on the Replication Crisis
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <!-- Text links -->
   <div style="flex: 2; min-width: 250px;">

@@ -6,10 +6,14 @@
     <aside id="meta" class="light-border-bottom">
       <div>
         <section>
-          {{ i18n "published_on" }}
-          <h4 id="date">{{ .Date | time.Format (i18n "date_format") }}</h4>
-          ·
-          <h4 id="wordcount">{{ .WordCount }} {{ i18n "words" | default "Words" }}</h4>
+         
+          <p class="post-meta">
+            {{ i18n "published_on" }} {{ .Date | time.Format (i18n "date_format") }}
+            ·
+            {{ .WordCount }} {{ i18n "words" | default "Wörter" }}
+          </p>
+       
+       
         </section>
         {{ with .GetTerms "topics" }}
         <ul id="topics">

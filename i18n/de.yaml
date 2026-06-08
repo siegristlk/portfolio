@@ -59,7 +59,7 @@
 - id: "read_more"
   translation: "Mehr lesen"
 - id: "published_on"
-  translation: "Veröffentlicht am  "
+  translation: "Veröffentlicht am "
 - id: "continue_reading"
   translation: "Weiterlesen"
 - id: "categories"
@@ -67,7 +67,7 @@
 - id: "recent_posts"
   translation: "Neueste Beiträge"
 - id: date_format
-  translation: " 2. Jan 2006"
+  translation: "2. Jan 2006"
 - id: words
   translation: "Wörter"
 
