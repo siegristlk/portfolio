@@ -24,7 +24,7 @@ date# Interactive Learning Session on the Replication Crisis
 
   <!-- Bild rechts -->
   <div style="flex: 1; min-width: 200px;">
-    <img src="/images/works/replication_crisis.png" alt="Replication Crisis" style="max-width: 80%; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+    <img src="/img/works/replication_crisis.png" alt="Replication Crisis" style="max-width: 80%; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
 
