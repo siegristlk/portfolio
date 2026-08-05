@@ -8,7 +8,7 @@ draft = false
     title=" "
     subtitle="Lerndesign an der Schnittstelle von Didaktik und Technologie"
     buttonText="Correo"
-    description="<br/>Schon in meinen ersten Erfahrungen mit E-Learning-Entwicklung ist mir aufgefallen, dass die grössten Schwäche digitaler Kurse selten an der Technik liegt - sonder daran, dass sie vom Inhalt her gedacht werden, nicht vom Lernproblem. Diese Beobachtung begleitet mivh seither: Lernen funktioniert nur dann, wenn die Bedürfnisse der Lernenden wirklich im Mittelpunkt stehen, nicht der Stoff oder das Tool."
+    description="<br/>In meinen ersten Projekten mit E-Learning-Entwicklung ist mir aufgefallen, dass die Schwächen digitaler Kurse selten an der Technik liegen – sondern daran, dass sie vom Inhalt her gedacht werden, nicht vom Lernproblem. Diese Beobachtung hat mich seither begleitet, auch wenn ich noch dabei bin, herauszufinden, wie man ihr in der Praxis wirklich gerecht wird: Lernen funktioniert am besten, wenn die Bedürfnisse der Lernenden im Zentrum stehen, nicht der Stoff oder das Tool."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5" 
  >}}
@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Über mich"
-    content="<br/>Mein Weg führt von der Sozial- und Organisationspädagogik zur Bildungstechnologie – und verbindet pädagogische Perspektiven mit digitalem Know-how und nutzerzentrierter Forschung. Ich übersetze komplexe Anforderungen in durchdachte, umsetzbare Lösungen, evidenzbasiert, lerntheoretisch fundiert und mit einem klaren Blick für unterschiedliche Perspektiven. Didaktik verstehe ich dabei nicht als starres Konzept, sondern als Gestaltungsaufgabe: als Prozess, der Orientierung gibt und zugleich Spielräume eröffnet."
+    content="<br/>Mein Weg führt von der Sozial- und Organisationspädagogik zur Bildungstechnologie. Dabei versuche ich, pädagogische Perspektiven mit digitalem Know-how und nutzerzentrierter Forschung zu verbinden – und lerne dabei stetig dazu, wie sich komplexe Anforderungen in nachvollziehbare, umsetzbare Lösungen übersetzen lassen. Mir ist wichtig, dass diese Lösungen sich auf Evidenz und Lerntheorie stützen und unterschiedliche Perspektiven mitdenken. Didaktik verstehe ich dabei nicht als starres Konzept, sondern als Gestaltungsaufgabe, als Prozess, der Orientierung gibt und zugleich Spielräume eröffnet."
     imgSrc="/images/about/FotoLisa.png"
     imgScale="0.5"
  >}}

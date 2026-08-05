@@ -8,7 +8,7 @@ draft = false
 {{< showcase-section
     title=" "
     subtitle="Learning Design at the Intersection of Pedagogy and Technology"
-    description="<br/>From my experience of e-learning courses, I have found that the main weakness of digital courses is rarely the technology itself. Instead, it is usually because they focus on content rather than learning objectives. I have made this observation ever since. Learning only works when the learners' needs are truly at the centre, rather than the subject matter or the tool."
+    description="<br/>In my first projects involving the development of e-learning, I noticed that the weaknesses of digital courses rarely lie in the technology itself, but rather in the fact that they are designed from the perspective of the content rather than the learning problem. I have been aware of this observation ever since, even though I am still trying to figure out how to really do it in practice: Learning works best when the needs of the learners are at the centre, not the subject matter or the tool."
     imgSrc="/images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Who am I?"
-    content="<br/>My path leads from social and organisational pedagogy to educational technology, combining pedagogical perspectives with digital know-how and user-centred research. I translate complex requirements into well-considered, implementable solutions that are evidence-based, learning theory-informed and with a clear view of different perspectives. I understand didactic principles not as a rigid concept, but as a design task: as a process that provides orientation and simultaneously opens up possibilities."
+    content="<br/>My journey has taken me from social and organisational pedagogy to education technology. In this process, I am trying to combine pedagogical perspectives with digital know-how and user-centred research – and I am constantly learning how to translate complex requirements into understandable, implementable solutions. It is important to me that these solutions are based on evidence and learning theory and take different perspectives into account. I understand didacticism not as a rigid concept, but as a design task, as a process that provides orientation and simultaneously opens up possibilities."
     imgSrc="/images/about/FotoLisa.png"
     imgScale="0.5"
  >}}
