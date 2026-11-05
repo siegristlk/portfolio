@@ -1,5 +1,5 @@
 ---
-title: 'Bodenforschung in gesellschaftlichen Wandel umsetzen: Meine Arbeit im Projekt Nemesis-Soil'
+title: 'Neue Rolle an der HSG: Mitarbeit im EU-Projekt Nemesis Soil'
 date: 2025-11-21T14:38:33+02:00
 draft: false
 type: 'blog'
@@ -8,17 +8,11 @@ tags:
   - 
 ---
 
-# Arbeit an der Schnittstelle von Bildung, gesellschaftlichem Engagement und Nachhaltigkeit
+# Bodengesundheit gemeinsam mit Gesellschaft und Bildung gestalten
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <!-- Text links -->
   <div style="flex: 2; min-width: 250px;">
-    <p>
-        <strong>Neue Rolle an der HSG: Mitarbeit im EU-Projekt Nemesis Soil</strong>
-    </p>
-    <p>
-        <strong>Bodengesundheit gemeinsam mit Gesellschaft und Bildung gestalten</strong>
-    </p><p>
-    Gesunde Böden sind die Grundlage unserer Ernährung, speichern Wasser und Kohlenstoff.  In vielen Regionen Europas und des Mittelmeerraums werden jedoch immer mehr Flächen unfruchtbar – etwa durch intensive Nutzung, Erosion oder fortschreitende Wüstenbildung. Dies bedroht die Lebensgrundlagen der Menschen vor Ort, beeinträchtigt die Nahrungsmittelproduktion und stellt Gesellschaft, Wirtschaft und Politik vor wachsende Herausforderungen.</p>
+    <p>Gesunde Böden sind die Grundlage unserer Ernährung, speichern Wasser und Kohlenstoff.  In vielen Regionen Europas und des Mittelmeerraums werden jedoch immer mehr Flächen unfruchtbar – etwa durch intensive Nutzung, Erosion oder fortschreitende Wüstenbildung. Dies bedroht die Lebensgrundlagen der Menschen vor Ort, beeinträchtigt die Nahrungsmittelproduktion und stellt Gesellschaft, Wirtschaft und Politik vor wachsende Herausforderungen.</p>
     <p>Um diesen Herausforderungen zu begegnen, arbeiten Forschende, landwirtschaftliche Betriebe, Gemeinden und weitere Akteure im europäischen Forschungsprojekt <strong>Nemesis-Soil</strong> zusammen. Das von der Europäischen Union geförderte Projekt entwickelt und erprobt neue Ansätze für eine nachhaltige Bodenbewirtschaftung und untersucht, wie diese langfristig in der Praxis umgesetzt werden können.</p>
     <p>Seit Kurzem bin ich Teil des Teams der Universität St. Gallen (HSG) am Seminar für Soziologie. Dort übernehme ich die Koordination von Aktivitäten, die die gesellschaftliche Dimension des Projekts stärken.</p>
     <h3>Von wissenschaftlichen Erkenntnissen zu gesellschaftlichem Handeln</h3>
