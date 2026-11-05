@@ -4,8 +4,9 @@ date: 2025-10-05T14:38:33+02:00
 draft: false
 type: 'blog'
 featured: false
-tags: 
-  - 
+tags:
+  - Partizipation
+  - Bodengesundheit
 ---
 
 # Bodengesundheit gemeinsam mit Gesellschaft und Bildung gestalten
@@ -40,12 +41,9 @@ tags:
     <p>Die Arbeit an der HSG und im Projekt bietet mir die Möglichkeit, diese Fragen gemeinsam mit internationalen Partnern und lokalen Gemeinschaften in die Praxis zu übersetzen und so zur nachhaltigen Entwicklung im Mittelmeerraum beizutragen.</p>
     <p>Weitere Informationen zum Projekt finden sich auf der <a href="https://www.nemesis-soil.eu" target="_blank" rel="noopener noreferrer">Website von Nemesis-Soil</a>.</p>
     </p>
-</div>
-
-  <!-- Bild rechts -->
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/img/works/replication_crisis.png" alt="Replication Crisis" style="max-width: 80%; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
+
+
 </div>
 
 
