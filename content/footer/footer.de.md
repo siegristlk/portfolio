@@ -12,7 +12,7 @@ draft = false
     contact_form_message="Ihre Nachricht"
     contact_button="Nachricht senden"
     location_heading="Mein Standort"
-    location="🇨🇭 St. Gallen, Schweiz"
+    location="🇨🇭 Winterthur, Schweiz"
     form_action="https://formspree.io/f/xjkwyaad"
     form_method="POST"
 >}}
