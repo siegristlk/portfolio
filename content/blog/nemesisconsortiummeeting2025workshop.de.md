@@ -1,5 +1,5 @@
 ---
-title: 'xy'
+title: 'Was können die Living Labs voneinander lernen? Erkenntnisse aus einem internationalen Workshop in Zypern'
 date: 2025-11-28T18:23:43+02:00
 draft: false
 type: 'blog'
@@ -9,7 +9,7 @@ tags:
   - Internationale Zusammenarbeit
 ---
 
-# Ixy
+# Erfahrungen teilen, Herausforderungen erkennen und erfolgreiche Ansätze für gesellschaftliche Beteiligung weiterentwickeln
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <!-- Text links -->
   <div style="flex: 2; min-width: 250px;">
