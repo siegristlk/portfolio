@@ -1,6 +1,6 @@
 ---
 title: 'Neue Rolle an der HSG: Mitarbeit im EU-Projekt Nemesis Soil'
-date: 2025-11-21T14:38:33+02:00
+date: 2025-10-05T14:38:33+02:00
 draft: false
 type: 'blog'
 featured: false
@@ -14,7 +14,7 @@ tags:
   <div style="flex: 2; min-width: 250px;">
     <p>Gesunde Böden sind die Grundlage unserer Ernährung, speichern Wasser und Kohlenstoff.  In vielen Regionen Europas und des Mittelmeerraums werden jedoch immer mehr Flächen unfruchtbar – etwa durch intensive Nutzung, Erosion oder fortschreitende Wüstenbildung. Dies bedroht die Lebensgrundlagen der Menschen vor Ort, beeinträchtigt die Nahrungsmittelproduktion und stellt Gesellschaft, Wirtschaft und Politik vor wachsende Herausforderungen.</p>
     <p>Um diesen Herausforderungen zu begegnen, arbeiten Forschende, landwirtschaftliche Betriebe, Gemeinden und weitere Akteure im europäischen Forschungsprojekt <strong>Nemesis-Soil</strong> zusammen. Das von der Europäischen Union geförderte Projekt entwickelt und erprobt neue Ansätze für eine nachhaltige Bodenbewirtschaftung und untersucht, wie diese langfristig in der Praxis umgesetzt werden können.</p>
-    <p>Seit Kurzem bin ich Teil des Teams der Universität St. Gallen (HSG) am Seminar für Soziologie. Dort übernehme ich die Koordination von Aktivitäten, die die gesellschaftliche Dimension des Projekts stärken.</p>
+    <p>Seit Kurzem bin ich Teil des Teams der <a href="https://sfs.unisg.ch/de/" target="_blank" rel="noopener noreferrer">Universität St. Gallen (HSG)</a> am Seminar für Soziologie. Dort übernehme ich die Koordination von Aktivitäten, die die gesellschaftliche Dimension des Projekts stärken.</p>
     <h3>Von wissenschaftlichen Erkenntnissen zu gesellschaftlichem Handeln</h3>
     <p>Dabei steht eine zentrale Frage im Mittelpunkt: Wie können wissenschaftliche Erkenntnisse zur Bodengesundheit Menschen erreichen, verständlich werden und letztlich zu nachhaltigem Handeln beitragen?</p>
     <p>Nachhaltigkeit lässt sich nicht allein durch neue Technologien oder wissenschaftliche Erkenntnisse erreichen. Damit Veränderungen gelingen, müssen Menschen die Herausforderungen verstehen, ihre Bedeutung für den eigenen Alltag erkennen und die Möglichkeit haben, sich aktiv einzubringen.</p>
