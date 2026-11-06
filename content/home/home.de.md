@@ -38,5 +38,8 @@ draft = false
     button1_icon="icon-download" 
 >}}
 
+{{< client-and-work-section
+    title="Meine Projekte" >}} 
+
 
 {{< spacer size="large" >}}
