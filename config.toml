@@ -231,10 +231,10 @@ name = "Erfahrungen"
 URL = "/de/#experience-single"
 weight = 4
 
-[[languages.de.menus.header]]
-name = "Meine Projekte"
-URL = "/de/#client-and-work-section"
-weight = 5
+# [[languages.de.menus.header]]
+# name = "Meine Projekte"
+# URL = "/de/#client-and-work-section"
+# weight = 5
 
 [[languages.de.menus.header]]
 name = "Blog"
