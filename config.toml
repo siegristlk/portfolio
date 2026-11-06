@@ -154,10 +154,10 @@ name = "Experience"
 URL = "/en/#experience-single"
 weight = 4
 
-[[languages.en.menus.header]]
-name = "Projects"
-URL = "/en/#client-and-work-section"
-weight = 5
+# [[languages.en.menus.header]]
+# name = "Projects"
+# URL = "/en/#client-and-work-section"
+# weight = 5
 
 [[languages.en.menus.header]]
 name = "Blog"
